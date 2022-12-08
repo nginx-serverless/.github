@@ -2,7 +2,7 @@
 
 **NINGX Serverless: Core Engine**
 - [NGINX AWS Signature Library](https://github.com/nginx-serverless/nginx-aws-signature)
-- [NGINX S3 Gateway](https://github.com/nginx-serverless/nginx-s3-gateway)
+- [NGINX S3 Gateway V1](https://github.com/nginx-serverless/nginx-s3-gateway)
 - [NGINX Lambda Gateway](https://github.com/nginx-serverless/nginx-lambda-gateway)
 
 **NINGX Serverless: Reference Architecture and Examples**
