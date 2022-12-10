@@ -9,3 +9,4 @@
 **NINGX Serverless: Reference Architecture and Examples**
 - [NGINX Serverless Examples](https://github.com/nginx-serverless/nginx-serverless-examples)
 - [NGINX Lambda Reference Architecture](https://github.com/nginx-serverless/nginx-lambda-reference-architecture)
+- [NGINX Modern App Reference Architecture for Provisioned & Serverless Computing](https://github.com/nginx-serverless/kic-serverless-reference-architectures)
